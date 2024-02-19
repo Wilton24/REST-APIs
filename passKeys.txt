@@ -1,0 +1,4 @@
+apiKey = fef8c116-878d-4bf7-8d4f-b2dedbee931f
+username = BRENZ_GILBOY
+password = 12345687
+bearerToken = f2f3fd6e-0089-4ce3-b9e3-50563efac421
